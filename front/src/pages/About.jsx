@@ -1,1 +1,0 @@
-export default function About(){return <div><h2>About Us</h2><p>This is a simple MERN news channel project built with Vite.</p></div>}
